@@ -1,0 +1,1 @@
+This programs helps to rotate the array in anti-clockwise direction according to the number of rotations entered.
