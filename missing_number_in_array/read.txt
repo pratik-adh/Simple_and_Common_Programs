@@ -1,0 +1,2 @@
+This program helps to find the missing number in the array.
+You have to enter n natural numbers sequential order.
